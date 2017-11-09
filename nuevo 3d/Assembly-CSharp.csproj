@@ -48,9 +48,14 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\MovementIfKey.cs" />
      <Compile Include="Assets\Scripts\Movimiento.cs" />
+     <Compile Include="Assets\SkyBoxes\MouseLook.cs" />
+     <Compile Include="Assets\SkyBoxes\RecordScreens.cs" />
+     <Compile Include="Assets\SkyBoxes\SkyBoxPicker.cs" />
+     <None Include="Assets\laxer tree pkg\README.txt" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Foliage Free\Readme.txt" />
      <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
