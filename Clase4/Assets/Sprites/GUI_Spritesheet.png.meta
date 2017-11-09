@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: 7958964f7075fa348adccc54de69c355
+timeCreated: 1458559508
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GUI_Spritesheet_0
+    21300002: GUI_Spritesheet_1
+    21300004: GUI_Spritesheet_2
+    21300006: GUI_Spritesheet_3
+    21300008: GUI_Spritesheet_4
+    21300010: GUI_Spritesheet_5
+    21300012: GUI_Spritesheet_6
+    21300014: GUI_Spritesheet_7
+    21300016: GUI_Spritesheet_8
+    21300018: GUI_Spritesheet_9
+    21300020: GUI_Spritesheet_10
+    21300022: GUI_Spritesheet_11
+    21300024: GUI_Spritesheet_12
+    21300026: GUI_Spritesheet_13
+    21300028: GUI_Spritesheet_14
+    21300030: GUI_Spritesheet_15
+    21300032: GUI_Spritesheet_16
+    21300034: GUI_Spritesheet_17
+    21300036: GUI_Spritesheet_18
+    21300038: GUI_Spritesheet_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GUI_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1020
+        width: 1217
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 608.5, y: 505.5}
+        - {x: 606.5, y: 508.5}
+        - {x: -606.5, y: 508.5}
+        - {x: -608.5, y: 507.5}
+        - {x: -608.5, y: -504.5}
+        - {x: -604.5, y: -508.5}
+        - {x: 603.5, y: -508.5}
+        - {x: 608.5, y: -505.5}
+    - name: GUI_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1024
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 37}
+        - {x: 32, y: 38}
+        - {x: -38, y: 38}
+        - {x: -38, y: -37}
+        - {x: -36, y: -38}
+        - {x: 34, y: -38}
+        - {x: 37, y: -35}
+        - {x: 38, y: -32}
+        - {x: 38, y: 32}
+    - name: GUI_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1022
+        width: 617
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 306.5, y: 508}
+        - {x: 303.5, y: 509}
+        - {x: -301.5, y: 509}
+        - {x: -304.5, y: 508}
+        - {x: -308.5, y: 503}
+        - {x: -308.5, y: -82}
+        - {x: -307.5, y: -83}
+        - {x: -307.5, y: -457}
+        - {x: -308.5, y: -456}
+        - {x: -308.5, y: -509}
+        - {x: 306.5, y: -509}
+        - {x: 308.5, y: -508}
+        - {x: 308.5, y: 505}
+    - name: GUI_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 922
+        width: 532
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 266, y: 33}
+        - {x: 264, y: 35}
+        - {x: -265, y: 35}
+        - {x: -266, y: 34}
+        - {x: -266, y: -35}
+        - {x: 264, y: -35}
+        - {x: 266, y: -33}
+    - name: GUI_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 920
+        width: 532
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -264, y: 36}
+        - {x: -266, y: 34}
+        - {x: -266, y: -33}
+        - {x: -265, y: -35}
+        - {x: -262, y: -36}
+        - {x: 263, y: -36}
+        - {x: 266, y: -33}
+        - {x: 266, y: 35}
+        - {x: 265, y: 36}
+    - name: GUI_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 476
+        width: 896
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 446, y: 258}
+        - {x: -446, y: 258}
+        - {x: -448, y: 257}
+        - {x: -448, y: -256}
+        - {x: -446, y: -258}
+        - {x: 446, y: -258}
+        - {x: 448, y: -257}
+        - {x: 448, y: 255}
+    - name: GUI_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 823
+        width: 410
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 35}
+        - {x: -205, y: -34}
+        - {x: -204, y: -35}
+        - {x: 205, y: -35}
+        - {x: 205, y: 34}
+        - {x: 204, y: 35}
+    - name: GUI_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 823
+        width: 411
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205.5, y: 35}
+        - {x: -205.5, y: -34}
+        - {x: -204.5, y: -35}
+        - {x: 205.5, y: -35}
+        - {x: 205.5, y: 35}
+    - name: GUI_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 695
+        width: 500
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 250, y: 30.5}
+        - {x: 249, y: 32.5}
+        - {x: 245, y: 35.5}
+        - {x: -179, y: 35.5}
+        - {x: -178, y: 39.5}
+        - {x: -198, y: 49.5}
+        - {x: -220, y: 49.5}
+        - {x: -250, y: 28.5}
+        - {x: -250, y: -28.5}
+        - {x: -240, y: -34.5}
+        - {x: -213, y: -49.5}
+        - {x: -199, y: -49.5}
+        - {x: -177, y: -36.5}
+        - {x: 245, y: -37.5}
+        - {x: 250, y: -34.5}
+    - name: GUI_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 710
+        width: 272
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133, y: 35}
+        - {x: -136, y: 34}
+        - {x: -136, y: -34}
+        - {x: -135, y: -35}
+        - {x: 136, y: -35}
+        - {x: 136, y: 33}
+        - {x: 134, y: 35}
+    - name: GUI_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 716
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 28}
+        - {x: -21, y: 27}
+        - {x: -23, y: 25}
+        - {x: -23, y: -13}
+        - {x: -7, y: -28}
+        - {x: 6, y: -28}
+        - {x: 23, y: -10}
+        - {x: 23, y: 25}
+        - {x: 19, y: 28}
+    - name: GUI_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 717
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -25, y: 18}
+        - {x: -25, y: -15}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 25, y: -17}
+        - {x: 25, y: 17}
+        - {x: 16, y: 25}
+    - name: GUI_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 627
+        width: 400
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 20}
+        - {x: -200, y: -20}
+        - {x: 200, y: -20}
+        - {x: 200, y: 20}
+    - name: GUI_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 550
+        width: 400
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 20}
+        - {x: -200, y: -20}
+        - {x: 200, y: -20}
+        - {x: 200, y: 20}
+    - name: GUI_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 476
+        width: 400
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -200, y: 20}
+        - {x: -200, y: -20}
+        - {x: 200, y: -20}
+        - {x: 200, y: 20}
+    - name: GUI_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 289
+        width: 512
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -254, y: 85}
+        - {x: -256, y: 82}
+        - {x: -256, y: -82}
+        - {x: -254, y: -85}
+        - {x: 256, y: -85}
+        - {x: 256, y: 85}
+    - name: GUI_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 199
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 31}
+        - {x: -40, y: -31}
+        - {x: 40, y: -31}
+        - {x: 40, y: 7}
+        - {x: 17, y: 31}
+    - name: GUI_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 190
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 40}
+        - {x: -40, y: 22}
+        - {x: -40, y: -11}
+        - {x: -25, y: -40}
+        - {x: 4, y: -40}
+        - {x: 40, y: -12}
+        - {x: 40, y: 37}
+        - {x: 29, y: 40}
+    - name: GUI_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 193
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 36.5}
+        - {x: 4, y: 35.5}
+        - {x: -40, y: 2.5}
+        - {x: -40, y: -14.5}
+        - {x: -37, y: -18.5}
+        - {x: -21, y: -36.5}
+        - {x: -5, y: -36.5}
+        - {x: -2, y: -35.5}
+        - {x: 7, y: -29.5}
+        - {x: 40, y: 18.5}
+        - {x: 40, y: 36.5}
+    - name: GUI_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 195
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 36.5}
+        - {x: -40, y: 30.5}
+        - {x: -40, y: 11.5}
+        - {x: -20, y: -3.5}
+        - {x: -14, y: -0.5}
+        - {x: 16, y: -36.5}
+        - {x: 34, y: -36.5}
+        - {x: 40, y: -24.5}
+        - {x: 40, y: 28.5}
+        - {x: 27, y: 36.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
