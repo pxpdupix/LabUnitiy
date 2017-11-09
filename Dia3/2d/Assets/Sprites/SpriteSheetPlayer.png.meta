@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 5df6691844697fe4ba76d0a3fa1825eb
+timeCreated: 1463493576
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteSheetPlayer_0
+    21300002: SpriteSheetPlayer_1
+    21300004: SpriteSheetPlayer_2
+    21300006: SpriteSheetPlayer_3
+    21300008: SpriteSheetPlayer_4
+    21300010: SpriteSheetPlayer_5
+    21300012: SpriteSheetPlayer_6
+    21300014: SpriteSheetPlayer_7
+    21300016: SpriteSheetPlayer_8
+    21300018: SpriteSheetPlayer_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SpriteSheetPlayer_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 279
+        width: 131
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -39.5}
+        - {x: -15.5, y: -49.5}
+        - {x: -14.5, y: -59.5}
+        - {x: 36.5, y: -45.5}
+        - {x: 54.5, y: -29.5}
+        - {x: 65.5, y: 21.5}
+        - {x: 65.5, y: 73.5}
+        - {x: 58.5, y: 78.5}
+        - {x: 7.5, y: 78.5}
+        - {x: -64.5, y: 40.5}
+        - {x: -65.5, y: 36.5}
+        - {x: -65.5, y: -2.5}
+        - {x: -63.5, y: -9.5}
+        - {x: -65.5, y: -20.5}
+        - {x: -65.5, y: -61.5}
+        - {x: -54.5, y: -78.5}
+        - {x: -35.5, y: -78.5}
+        - {x: -33.5, y: -76.5}
+        - {x: -25.5, y: -51.5}
+        - {x: -14.5, y: -41.5}
+      - - {x: 8.5, y: 69.5}
+        - {x: 10.5, y: 67.5}
+        - {x: 13.5, y: 68.5}
+        - {x: 13.5, y: 71.5}
+        - {x: 11.5, y: 73.5}
+        - {x: 8.5, y: 72.5}
+    - name: SpriteSheetPlayer_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 267
+        width: 133
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -76}
+        - {x: 47.5, y: -76}
+        - {x: 53.5, y: -74}
+        - {x: 66.5, y: -6}
+        - {x: 66.5, y: 76}
+        - {x: 16.5, y: 76}
+        - {x: -58.5, y: 21}
+        - {x: -66.5, y: 15}
+        - {x: -66.5, y: -76}
+        - {x: -53.5, y: -76}
+        - {x: -28.5, y: -58}
+        - {x: -13.5, y: -45}
+        - {x: -0.5, y: -61}
+      - - {x: 9.5, y: 67}
+        - {x: 11.5, y: 65}
+        - {x: 14.5, y: 66}
+        - {x: 14.5, y: 69}
+        - {x: 12.5, y: 71}
+        - {x: 9.5, y: 70}
+    - name: SpriteSheetPlayer_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 259
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 72}
+        - {x: 17.5, y: 72}
+        - {x: -57.5, y: 35}
+        - {x: -71.5, y: -1}
+        - {x: -71.5, y: -45}
+        - {x: 35.5, y: -72}
+        - {x: 68.5, y: -72}
+        - {x: 71.5, y: -71}
+        - {x: 71.5, y: 62}
+        - {x: 60.5, y: 68}
+      - - {x: 14.5, y: 63}
+        - {x: 16.5, y: 61}
+        - {x: 19.5, y: 62}
+        - {x: 19.5, y: 65}
+        - {x: 17.5, y: 67}
+        - {x: 14.5, y: 66}
+    - name: SpriteSheetPlayer_3
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 256
+        width: 125
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 80.5}
+        - {x: -62.5, y: 9.5}
+        - {x: -62.5, y: -8.5}
+        - {x: -52.5, y: -19.5}
+        - {x: -41.5, y: -14.5}
+        - {x: -30.5, y: -6.5}
+        - {x: -38.5, y: -20.5}
+        - {x: -48.5, y: -18.5}
+        - {x: -62.5, y: -24.5}
+        - {x: -62.5, y: -44.5}
+        - {x: -56.5, y: -55.5}
+        - {x: -50.5, y: -59.5}
+        - {x: -32.5, y: -76.5}
+        - {x: -22.5, y: -80.5}
+        - {x: 15.5, y: -80.5}
+        - {x: 62.5, y: 17.5}
+        - {x: 62.5, y: 68.5}
+        - {x: 43.5, y: 80.5}
+      - - {x: 5.5, y: 71.5}
+        - {x: 7.5, y: 69.5}
+        - {x: 10.5, y: 70.5}
+        - {x: 10.5, y: 73.5}
+        - {x: 8.5, y: 75.5}
+        - {x: 5.5, y: 74.5}
+    - name: SpriteSheetPlayer_4
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 251
+        width: 128
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 79.5}
+        - {x: -64, y: 19.5}
+        - {x: -64, y: -37.5}
+        - {x: -42, y: -79.5}
+        - {x: 6, y: -79.5}
+        - {x: 64, y: 16.5}
+        - {x: 64, y: 68.5}
+        - {x: 61, y: 79.5}
+      - - {x: 7, y: 70.5}
+        - {x: 9, y: 68.5}
+        - {x: 12, y: 69.5}
+        - {x: 12, y: 72.5}
+        - {x: 10, y: 74.5}
+        - {x: 7, y: 73.5}
+    - name: SpriteSheetPlayer_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 35
+        width: 131
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -36.5}
+        - {x: -5.5, y: -23.5}
+        - {x: -7.5, y: -28.5}
+        - {x: -9.5, y: -37.5}
+        - {x: -0.5, y: -67.5}
+        - {x: 54.5, y: -28.5}
+        - {x: 65.5, y: 8.5}
+        - {x: 65.5, y: 76.5}
+        - {x: 56.5, y: 78.5}
+        - {x: 8.5, y: 78.5}
+        - {x: -55.5, y: 29.5}
+        - {x: -65.5, y: 20.5}
+        - {x: -65.5, y: -2.5}
+        - {x: -63.5, y: -9.5}
+        - {x: -65.5, y: -20.5}
+        - {x: -65.5, y: -61.5}
+        - {x: -54.5, y: -78.5}
+        - {x: -35.5, y: -78.5}
+        - {x: -34.5, y: -75.5}
+        - {x: -34.5, y: -63.5}
+        - {x: -13.5, y: -42.5}
+      - - {x: 8.5, y: 69.5}
+        - {x: 10.5, y: 67.5}
+        - {x: 13.5, y: 68.5}
+        - {x: 13.5, y: 71.5}
+        - {x: 11.5, y: 73.5}
+        - {x: 8.5, y: 72.5}
+    - name: SpriteSheetPlayer_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 38
+        width: 147
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 76}
+        - {x: -62.5, y: 30}
+        - {x: -61.5, y: 4}
+        - {x: -51.5, y: -7}
+        - {x: -33.5, y: -4}
+        - {x: -73.5, y: -21}
+        - {x: -73.5, y: -54}
+        - {x: -67.5, y: -56}
+        - {x: -61.5, y: -50}
+        - {x: -39.5, y: -48}
+        - {x: 16.5, y: -76}
+        - {x: 39.5, y: -76}
+        - {x: 73.5, y: -7}
+        - {x: 73.5, y: 66}
+        - {x: 66.5, y: 76}
+      - - {x: 16.5, y: 67}
+        - {x: 18.5, y: 65}
+        - {x: 21.5, y: 66}
+        - {x: 21.5, y: 69}
+        - {x: 19.5, y: 71}
+        - {x: 16.5, y: 70}
+    - name: SpriteSheetPlayer_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 42
+        width: 151
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 72}
+        - {x: -66.5, y: 23}
+        - {x: -56.5, y: 6}
+        - {x: -54.5, y: 4}
+        - {x: -51.5, y: 4}
+        - {x: -50.5, y: 3}
+        - {x: -37.5, y: 1}
+        - {x: -12.5, y: -7}
+        - {x: -54.5, y: 4}
+        - {x: -56.5, y: 4}
+        - {x: -62.5, y: 1}
+        - {x: -73.5, y: -7}
+        - {x: -75.5, y: -9}
+        - {x: -75.5, y: -42}
+        - {x: -0.5, y: -72}
+        - {x: 72.5, y: -72}
+        - {x: 75.5, y: -65}
+        - {x: 75.5, y: 59}
+        - {x: 55.5, y: 72}
+      - - {x: 18.5, y: 63}
+        - {x: 20.5, y: 61}
+        - {x: 23.5, y: 62}
+        - {x: 23.5, y: 65}
+        - {x: 21.5, y: 67}
+        - {x: 18.5, y: 66}
+    - name: SpriteSheetPlayer_8
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 33
+        width: 133
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 79.5}
+        - {x: -57.5, y: 32.5}
+        - {x: -66.5, y: 13.5}
+        - {x: -66.5, y: 0.5}
+        - {x: -57.5, y: -5.5}
+        - {x: -40.5, y: -3.5}
+        - {x: -66.5, y: -18.5}
+        - {x: -66.5, y: -58.5}
+        - {x: -62.5, y: -62.5}
+        - {x: -16.5, y: -79.5}
+        - {x: 21.5, y: -79.5}
+        - {x: 66.5, y: 16.5}
+        - {x: 66.5, y: 75.5}
+        - {x: 52.5, y: 79.5}
+      - - {x: 9.5, y: 70.5}
+        - {x: 11.5, y: 68.5}
+        - {x: 14.5, y: 69.5}
+        - {x: 14.5, y: 72.5}
+        - {x: 12.5, y: 74.5}
+        - {x: 9.5, y: 73.5}
+    - name: SpriteSheetPlayer_9
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 35
+        width: 134
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 80}
+        - {x: -18, y: 80}
+        - {x: -67, y: 53}
+        - {x: -67, y: -12}
+        - {x: -54, y: -55}
+        - {x: -37, y: -80}
+        - {x: -19, y: -80}
+        - {x: 18, y: -56}
+        - {x: 67, y: 10}
+        - {x: 67, y: 70}
+      - - {x: 10, y: 71}
+        - {x: 12, y: 69}
+        - {x: 15, y: 70}
+        - {x: 15, y: 73}
+        - {x: 13, y: 75}
+        - {x: 10, y: 74}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
