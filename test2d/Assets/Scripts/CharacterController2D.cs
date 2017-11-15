@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class CharacterController2D : MonoBehaviour
@@ -10,6 +10,7 @@ public class CharacterController2D : MonoBehaviour
     [Header("Input")]
     public bool useAxis;
     public string movementAxis;
+º
     public bool useKeys;
     public KeyCode leftMovement, rightMovement;
     private bool _facingRight = true;
