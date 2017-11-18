@@ -23,7 +23,7 @@ public class Instantiator : MonoBehaviour
 			obj.transform.SetParent (this.transform);
 			obj.transform.localScale += new Vector3 (scale, scale, 0);
 			_instantiateTimer = instantiateTime;
-			Destroy (obj, 2);
+			Destroy (obj, 3);
 			yield return new WaitForSeconds (secs);
 		}
 	}
