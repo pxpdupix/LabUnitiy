@@ -29,3 +29,6 @@ D:\MASTERDAP\LabUnitiy\2d_engaging_warp_speed\Temp\bin\Debug\UnityEngine.VR.xml
 D:\MASTERDAP\LabUnitiy\2d_engaging_warp_speed\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 D:\MASTERDAP\LabUnitiy\2d_engaging_warp_speed\obj\Debug\Assembly-CSharp.dll
 D:\MASTERDAP\LabUnitiy\2d_engaging_warp_speed\obj\Debug\Assembly-CSharp.pdb
+C:\Users\dupi\Google Drive\MasterDAP\LabUnitiy\2d_engaging_warp_speed\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\dupi\Google Drive\MasterDAP\LabUnitiy\2d_engaging_warp_speed\obj\Debug\Assembly-CSharp.dll
+C:\Users\dupi\Google Drive\MasterDAP\LabUnitiy\2d_engaging_warp_speed\obj\Debug\Assembly-CSharp.pdb

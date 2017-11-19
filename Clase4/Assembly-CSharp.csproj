@@ -60,7 +60,7 @@
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Shooter.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>D:/MASTERDAP/LabUnitiy/Clase4/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/dupi/Google Drive/MasterDAP/LabUnitiy/Clase4/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

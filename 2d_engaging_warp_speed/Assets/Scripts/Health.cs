@@ -9,6 +9,7 @@ public class Health : MonoBehaviour
 	public int currentHealth;
 	public Image uIBar;
 	public UnityEvent onDie;
+	public GameManager GameManager;
 
 	void Start()
 	{
@@ -59,6 +60,8 @@ public class Health : MonoBehaviour
 	public void DestroyObj()
 	{
 		Destroy(gameObject);
+		GameManager.SharedInstance.PauseGame (true);
+
 	}
 
 	public void UpdateUIBar()
