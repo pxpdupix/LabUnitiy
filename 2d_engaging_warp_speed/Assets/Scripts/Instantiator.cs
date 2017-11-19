@@ -11,6 +11,10 @@ public class Instantiator : MonoBehaviour
     public float instantiateTime;
     private float _instantiateTimer;
 	public int numAst = 1;
+	public float currentSpawnTime = 0;
+
+	public float bigCountdown = 120; // 120 seconds is 2 minutes
+	public float currentBigTime = 0;
 
 //	void Awake(){
 //		if (spritesList.Count == 0)
@@ -21,6 +25,7 @@ public class Instantiator : MonoBehaviour
     void Start()
     {
         _instantiateTimer = instantiateTime;
+		StartCoroutine( InstatiateAst (_instantiateTimer));
 		//Time.timeScale = 1;
     }
 	private IEnumerator InstatiateAst (float secs){
@@ -28,7 +33,7 @@ public class Instantiator : MonoBehaviour
 			float scale = Random.Range (0.7f, 1.5f);
 			Vector2 position = new Vector2 (Random.Range (-maxOffset.x, maxOffset.x), 7);
 			//Quaternion rotation = Quaternion.Euler(0, 0, 0);
-			int rng = (int)Random.Range(0f,(float)(prefabtoInstantiate.Count));
+			int rng = Random.Range(0,prefabtoInstantiate.Count);
 			GameObject obj = (GameObject)Instantiate (prefabtoInstantiate[rng], position, Quaternion.identity);
 			obj.transform.SetParent (this.transform);
 			obj.transform.localScale += new Vector3 (scale, scale, 0);
@@ -43,8 +48,8 @@ public class Instantiator : MonoBehaviour
         if(_instantiateTimer <= 0)
         {
 			numAst = (int) (Random.Range (1, 3));
-			float s = Random.Range (0.8f, 1.0f);
-			StartCoroutine( InstatiateAst (_instantiateTimer));
+//			float s = Random.Range (0.8f, 1.0f);
+
 			if (instantiateTime >= 0.8f) {
 				instantiateTime -= 0.06f;
 
